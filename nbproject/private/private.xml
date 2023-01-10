@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Devindi/Dovel/Web%20Development/SLIIT/Staff-Management-System/src/java/Intefaces/StaffCRUD.java</file>
+            <file>file:/D:/Devindi/Dovel/Web%20Development/SLIIT/Staff-Management-System/src/java/Models/Staff.java</file>
+            <file>file:/D:/Devindi/Dovel/Web%20Development/SLIIT/Staff-Management-System/web/admin/staff/list.jsp</file>
+            <file>file:/D:/Devindi/Dovel/Web%20Development/SLIIT/Staff-Management-System/src/java/Controlador/admin/StaffServlet.java</file>
+            <file>file:/D:/Devindi/Dovel/Web%20Development/SLIIT/Staff-Management-System/web/admin/staff/add.jsp</file>
+            <file>file:/D:/Devindi/Dovel/Web%20Development/SLIIT/Staff-Management-System/src/java/ModeloDAO/StaffDAO.java</file>
+            <file>file:/D:/Devindi/Dovel/Web%20Development/SLIIT/Staff-Management-System/src/java/Config/ConDatabase.java</file>
+        </group>
+    </open-files>
+</project-private>
